@@ -1,0 +1,21 @@
+{
+    "redirect": [
+        {
+        
+        "ADS_PUB_ID": "pub-89666184356xxxxx",
+        "ADS_APP_ID": "ca-app-pub-3940256099942544~3347511713",
+        "ADS_ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+        "ADS_ADMOB_INTERSTITIALS": "ca-app-pub-3940256099942544/1033173712",
+        "ADS_ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",       
+        "MAX_ITEM_SHOW_LISTNATIVE": 6,
+        "ITEMS_PER_AD": 5,
+        "NATIVE_ADS_USE_BUTTON_ACTION": true,
+        "ADS_STARTAPP_APPID": "201655795",
+        "INTERVAL_STARAPP" : 1,
+        "MOD_NUM": 2,
+        "MAX_ADS_DISPLAY_IN_PERIOD" : 3,
+        "ADS_TIME_PERIOD" : 60
+        
+        }
+    ]
+}
